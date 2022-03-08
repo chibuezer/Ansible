@@ -1,4 +1,4 @@
-## **Configuring managed nodes.**
+## **Configuring Managed Nodes**
 - Launch/select required no of servers (managed
 nodes)
 - Ansible Engine uses SSH Connection to connect
